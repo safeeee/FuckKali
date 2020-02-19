@@ -5,7 +5,7 @@ thank you for using my tool and please send me new things to add to it as time g
 contact:
 
    email: safe@lizard.land
-   discord: safe#6666
+   discord: x_x#6666
    keybase: keybase.io/safeeee
 
 
