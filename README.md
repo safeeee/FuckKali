@@ -17,7 +17,7 @@ contact:
 6. Web Hacking
 7. Private Web Hacking
 8. Post Exploitation
-9. Install allinone
+9. Install fuckkali
 
 Information Gathering:
 
@@ -102,7 +102,7 @@ Installation in Linux :
 
    ./install.sh
 
-   That's it.. you can execute tool by typing allinone
+   That's it.. you can execute tool by typing fuckkali
 
 Installation in Android :
 
@@ -116,6 +116,6 @@ Installation in Android :
 
    cd hacktronian
 
-   chmod +x allinone.py
+   chmod +x fuckkali.py
 
-   python2 allinone.py
+   python2 fuckkali.py
