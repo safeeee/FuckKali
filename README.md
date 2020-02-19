@@ -21,6 +21,7 @@ contact:
 
 Information Gathering:
 
+
    Nmap
    
    Setoolkit
@@ -40,8 +41,10 @@ Information Gathering:
    Scan A server's Users
    
    Crips
+   
 
 Password Attacks:
+
 
    Cupp
    
@@ -54,8 +57,10 @@ Password Attacks:
    pixiewps
    
    Fluxion
+   
 
 Exploitation Tools:
+
 
    ATSCAN
    
@@ -68,8 +73,10 @@ Exploitation Tools:
    FTP Auto Bypass
    
    jboss-autopwn
+   
  
 Sniffing & Spoofing:
+
 
    Setoolkit
    
@@ -78,8 +85,10 @@ Sniffing & Spoofing:
    pyPISHER
    
    SMTP Mailer
+   
 
 Web Hacking:
+
 
    Drupal Hacking
    
@@ -108,6 +117,7 @@ Web Hacking:
 
 Private Web Hacking:
 
+
    Get all websites
    
    Get joomla websites
@@ -132,7 +142,9 @@ Private Web Hacking:
    
    Bypass Cloudflare
    
-   post Exploitation:
+   
+post Exploitation:
+
    
    Shell Checker
    
